@@ -1,4 +1,4 @@
-# test-vue-srspase
+# test-vue-SRSpase
 
 ## Project setup
 ```
@@ -10,10 +10,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Запустить JSON-сервер
 ```
-npm run build
+json-server --watch db.json
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
